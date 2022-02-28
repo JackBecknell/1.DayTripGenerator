@@ -74,4 +74,4 @@ while confirmed != True:
         confirmed = final_confirmation()
 #Final chunk of code that runs once the user confirms up in the 'final_confirmation' 
 if confirmed == True:
-    print(f"Enjoy traveling by {chosen_transport}, eating at {chosen_restaurant}, basking in the awesomeness of {chosen_destination}, and of course enjoy {chosen_entertainment}. Thank you for choosing SKYNET Inc.")
+    print(f"Enjoy traveling by {chosen_transport}, eating at {chosen_restaurant}, basking in the awesomeness of {chosen_destination}, and of course enjoy {chosen_entertainment}. Thank you for choosing SKYNET Inc, where we make your life our number 1 priority.")
